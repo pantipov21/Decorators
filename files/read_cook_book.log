@@ -1,0 +1,2 @@
+{"Date": "2022-03-20", "Time": "2:58:0", "Function_name": "read_cook_book", "args": ["files/recipes.txt"], "kwargs": {}}
+{"Date": "2022-03-20", "Time": "2:58:5", "Function_name": "read_cook_book", "args": ["files/recipes.txt"], "kwargs": {}}
